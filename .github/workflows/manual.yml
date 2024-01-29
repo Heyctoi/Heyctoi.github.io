@@ -1,4 +1,3 @@
-
 name: Run Scraper
 
 on:
@@ -9,6 +8,10 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
+      - name: Checking out repo
+        uses: actions/checkout@v2
+        with:
+          ref: action
       - name: Setting up Python
         uses: actions/setup-python@v2
         with:
@@ -26,9 +29,6 @@ jobs:
 
       - name: Running the Python script
         run: python scraper/main.py
-        
-      - name: Running the Python script
-        run: python ics/ics.py
         
       - name: Commit and Push The Results From Python Selenium Action
         run: |
