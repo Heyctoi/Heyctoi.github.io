@@ -14,5 +14,5 @@ jobs:
         server: ftpupload.net
         username: ${{ secrets.FTPUSERNAME }}
         password: ${{ secrets.FTPPASSWORD }}
-        protocol: ftps
+        protocol: ftp
         server-dir: htdocs/Calendar/
