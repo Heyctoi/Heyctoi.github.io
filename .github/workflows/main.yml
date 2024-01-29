@@ -28,10 +28,7 @@ jobs:
         run: sudo apt-get install xvfb
 
       - name: Running the Python script
-        run: python scraping/main.py
-        
-      - name: Running the Python script
-        run: python ics/ics.py
+        run: python scraping/scraper.py
         
       - name: Commit and Push The Results From Python Selenium Action
         run: |
