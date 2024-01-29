@@ -11,7 +11,6 @@ import uuid
 import dateparser
 import json
 import time
-import os
 
 from course_info_bab1 import course_info_bab1
 from course_info_bab1 import not_course_info_bab1
