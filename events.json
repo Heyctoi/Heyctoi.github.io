@@ -1,0 +1,2988 @@
+{
+    "INFO": {
+        "BAB1 INFO": {
+            "Comptabilite 1": [
+                {
+                    "uid": "b3e33cb8-e1bd-4828-88cf-b48cb6f619b6",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-07T15:40:00",
+                    "end": "2024-02-07T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "b9b41e4b-971f-4c12-a6b8-b703739918d6",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-09T15:40:00",
+                    "end": "2024-02-09T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "451cc9e2-bf62-40dc-bbfb-9c7b947eb791",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-16T15:40:00",
+                    "end": "2024-02-16T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "7e26f881-5562-4aab-b548-a2cf55a7ec6f",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-23T15:40:00",
+                    "end": "2024-02-23T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "775202cd-c3d6-4035-bbad-34356400553a",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-01T15:40:00",
+                    "end": "2024-03-01T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "4ba7c6a8-83fc-41fb-bb72-564eb2e604dc",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-15T15:40:00",
+                    "end": "2024-03-15T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "2ea31a11-08f7-4b58-8e3a-c0e3741349ea",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-21T13:30:00",
+                    "end": "2024-03-21T15:30:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C3.8",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "dcb32341-c8cf-4f0d-84ed-08116b3dc151",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-21T15:40:00",
+                    "end": "2024-03-21T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "aacaa76c-1d88-42fb-be2d-2b7cba14b7b1",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-29T15:40:00",
+                    "end": "2024-03-29T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "b2c78fec-2a2e-4f97-a1c2-6e6455073ef8",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-05T15:40:00",
+                    "end": "2024-04-05T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "671df75c-cb7c-4254-97aa-fca85fb0c0d6",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-12T15:40:00",
+                    "end": "2024-04-12T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "2b1202b1-bd0a-4ec6-9b41-dd554066b788",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-19T15:40:00",
+                    "end": "2024-04-19T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                },
+                {
+                    "uid": "eac98a24-26d1-4040-9df2-910a4ac68fc7",
+                    "title": "Comptabilite 1",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-26T15:40:00",
+                    "end": "2024-04-26T17:40:00",
+                    "description": "Mr CUSUMANO",
+                    "location": "C1.2",
+                    "color": "#5c98ff"
+                }
+            ],
+            "Economie generale": [
+                {
+                    "uid": "f4d650bf-e0da-40e7-807f-569e317c41ec",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-02T08:20:00",
+                    "end": "2024-02-02T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "da9e657c-ff13-4056-8d3a-de92c0b34eff",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-09T08:20:00",
+                    "end": "2024-02-09T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "f7ee76f0-217f-4384-a807-fbb89541be01",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-16T08:20:00",
+                    "end": "2024-02-16T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "68a406c4-e742-49b2-947a-13ac1f63b945",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-02-23T08:20:00",
+                    "end": "2024-02-23T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "fd6dc19f-feff-4ec0-83f2-c0c970df5341",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-01T08:20:00",
+                    "end": "2024-03-01T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "aacd9774-52f0-4340-b643-a7172f931528",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-15T08:20:00",
+                    "end": "2024-03-15T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "cda3169c-0fa1-4739-b5e3-832bbd9af477",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-29T08:20:00",
+                    "end": "2024-03-29T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "9c808806-caff-4315-b169-27c6057f2a71",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-05T08:20:00",
+                    "end": "2024-04-05T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "0d54b229-8f3e-4d0a-b84c-a02a29e1272e",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-12T08:20:00",
+                    "end": "2024-04-12T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "4c111177-dd03-4a61-9e3b-c946dd871451",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-19T08:20:00",
+                    "end": "2024-04-19T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "40b8ffaa-36a2-43ee-a40e-2d11862c68db",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-04-26T08:20:00",
+                    "end": "2024-04-26T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "89b11e8d-85f7-4d85-807c-240af5df23e4",
+                    "title": "Economie generale",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-05-17T08:20:00",
+                    "end": "2024-05-17T10:20:00",
+                    "description": "Mme ROSSELLE",
+                    "location": "C1.2",
+                    "color": "#fca044"
+                }
+            ],
+            "Formation en entreprise": [
+                {
+                    "uid": "3c1246ab-613e-4e99-8960-c038bc19e1cf",
+                    "title": "Formation en entreprise",
+                    "status": "2024-01-26T22:17:32",
+                    "start": "2024-03-22T08:20:00",
+                    "end": "2024-03-22T17:40:00",
+                    "description": "Mr WETTEREN",
+                    "location": "",
+                    "color": "#fca044"
+                }
+            ]
+        },
+        "BAB1 INFO Visites d'entreprises": {
+            "Visites d'entreprises": [
+                {
+                    "uid": "f7d4c1d0-2165-4269-bff5-b3c684913705",
+                    "title": "Visites d'entreprises",
+                    "status": "2024-01-26T22:17:38",
+                    "start": "2024-02-05T16:00:00",
+                    "end": "2024-02-05T18:00:00",
+                    "description": "Mr OZCAN, Mme VANDEVORST, Mr BRUHAT, Mr DELVAUX, Mr DAPOZ",
+                    "location": "",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "44a20f02-7e2a-4c33-892f-b3e867458187",
+                    "title": "Visites d'entreprises",
+                    "status": "2024-01-26T22:17:38",
+                    "start": "2024-02-06T16:00:00",
+                    "end": "2024-02-06T20:30:00",
+                    "description": "Mr OZCAN, Mme VANDEVORST, Mr BRUHAT, Mr DELVAUX, Mr DAPOZ",
+                    "location": "",
+                    "color": "#fca044"
+                }
+            ]
+        },
+        "BAB1 INFO Groupe A": {
+            "Algorithmique 2": [
+                {
+                    "uid": "7dc4629b-bf80-4149-af8e-e5b318c55a58",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-01-30T13:30:00",
+                    "end": "2024-01-30T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "17c7a2a2-dcb9-4496-bb07-83d73b63c8dc",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-01-31T08:20:00",
+                    "end": "2024-01-31T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "72c001e4-1435-4c8a-bfc3-a6aa9b788287",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-06T13:30:00",
+                    "end": "2024-02-06T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "562b918c-a5d6-4147-a6ec-f0903fc0fe45",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-07T08:20:00",
+                    "end": "2024-02-07T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "a0126503-5a0d-4fc4-b688-57a2f1a3dc37",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "ec062e69-e656-4cc5-adb6-833d7273570f",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-14T08:20:00",
+                    "end": "2024-02-14T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "82f6fe29-1ee5-4bf5-b2fb-9bd49ad8928b",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-20T13:30:00",
+                    "end": "2024-02-20T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "a38c0d59-3b2b-445d-bc1a-49e1cf7deae3",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-21T08:20:00",
+                    "end": "2024-02-21T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "6d7353d5-f00b-4b14-b672-dbf8870413c4",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-27T13:30:00",
+                    "end": "2024-02-27T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "b8e47bb3-aaf3-4000-97c8-906057320e58",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-02-28T08:20:00",
+                    "end": "2024-02-28T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "74de85a8-833a-4060-8ed4-6cdac066cc04",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-03-12T13:30:00",
+                    "end": "2024-03-12T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "f6a79d04-808b-48cd-9109-da12072c714e",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:53",
+                    "start": "2024-03-19T08:20:00",
+                    "end": "2024-03-19T10:20:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "e8f7be97-07b1-4eb6-b217-bb6ef68d7a5a",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-03-19T13:30:00",
+                    "end": "2024-03-19T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "8237d3df-0b53-4920-bed9-67e9b0394844",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-03-26T08:20:00",
+                    "end": "2024-03-26T10:20:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "e0f3382b-71a6-47c4-beeb-56b0d328ceb7",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-03-26T13:30:00",
+                    "end": "2024-03-26T15:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "020060a4-6773-43d8-ad55-6b42775f424a",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-02T08:20:00",
+                    "end": "2024-04-02T10:20:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "d31b5d9c-b2f8-4fd0-89e2-bc50aa89b7f5",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-09T08:20:00",
+                    "end": "2024-04-09T10:20:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "367939f8-d07c-453a-8e0b-4de6861f58d9",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-15T13:30:00",
+                    "end": "2024-04-15T15:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "6f51435d-95e5-4983-85af-8290e03e1cee",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-15T15:40:00",
+                    "end": "2024-04-15T16:40:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "8c65d856-fc1b-4d16-b609-5fe97c948540",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-16T08:20:00",
+                    "end": "2024-04-16T10:20:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "d2121209-9d90-4bf6-be96-a68bda8b95bd",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-23T08:20:00",
+                    "end": "2024-04-23T10:20:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                }
+            ],
+            "Anglais 2": [
+                {
+                    "uid": "e2389d30-93e1-4f16-9787-2a712ad2b522",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-01-30T10:30:00",
+                    "end": "2024-01-30T12:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "ecd7d5e6-10f0-48dd-8854-6fbeb03334ec",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-06T10:30:00",
+                    "end": "2024-02-06T12:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "6f76f57a-7699-4728-bc43-fb06a5579a5e",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-08T12:30:00",
+                    "end": "2024-02-08T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "2313bc79-60a0-4183-9d92-a3ea39886707",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-13T08:20:00",
+                    "end": "2024-02-13T10:20:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "325d266f-1adf-4bca-8cca-ac9f74fa15b0",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-15T12:30:00",
+                    "end": "2024-02-15T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "4b3a0d26-57ac-47d0-b13b-1064463aec2f",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-22T12:30:00",
+                    "end": "2024-02-22T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "7268e109-12fa-43c6-b5e0-f2174e07df50",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-03-14T12:30:00",
+                    "end": "2024-03-14T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "41dbbf3b-23c9-4c98-bf7a-a8c0d637e422",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-03-28T12:30:00",
+                    "end": "2024-03-28T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "2e0a043c-cc68-4256-9e73-aafb30d9250e",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-11T12:30:00",
+                    "end": "2024-04-11T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "d8c8104f-2af6-43f3-b534-aa82aa2633a2",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-18T12:30:00",
+                    "end": "2024-04-18T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "235d66d9-304e-4cc7-a162-6f78aa004f6c",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-04-25T12:30:00",
+                    "end": "2024-04-25T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "1eaeb4c4-642e-47d8-b601-9dcaab0689d1",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-05-16T12:30:00",
+                    "end": "2024-05-16T13:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                }
+            ],
+            "Applications web 2": [
+                {
+                    "uid": "438ef2f3-372b-4c7c-a158-aa319b796b3a",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-02T10:30:00",
+                    "end": "2024-02-02T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "d38d6d75-7666-46f7-9797-ba5770595345",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-05T08:20:00",
+                    "end": "2024-02-05T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "ce407568-955b-44ba-b52c-1ea31e990b1d",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-09T10:30:00",
+                    "end": "2024-02-09T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "7bfa7860-8f10-4e95-918e-7961a23e86eb",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-12T08:20:00",
+                    "end": "2024-02-12T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "4fdd34a9-80b6-4335-8480-677b41a5cbb1",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-16T10:30:00",
+                    "end": "2024-02-16T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "67944a9d-16b9-481e-9395-aa5b05407970",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-19T08:20:00",
+                    "end": "2024-02-19T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "cbac9eba-d63f-41d6-8a64-a2d57972e4e8",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-23T10:30:00",
+                    "end": "2024-02-23T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "342ef016-112a-4c93-8f3b-58631fe91cf6",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-02-26T08:20:00",
+                    "end": "2024-02-26T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "b2fda280-7d31-441e-beea-4169b03cf6ea",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:54",
+                    "start": "2024-03-01T10:30:00",
+                    "end": "2024-03-01T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "1184c39b-81e8-46b6-9949-033506952cb7",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-11T08:20:00",
+                    "end": "2024-03-11T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "01b10690-7921-4af5-a6fe-8bfa2dd07b3c",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-15T10:30:00",
+                    "end": "2024-03-15T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "f731fa83-1aca-4570-8511-7698c2836b3b",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-18T08:20:00",
+                    "end": "2024-03-18T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "8318e46e-7aeb-4134-86e7-e3a11a67531f",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-25T08:20:00",
+                    "end": "2024-03-25T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "cfe234df-9cdc-4084-a483-8575047421d1",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-27T13:30:00",
+                    "end": "2024-03-27T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "7037e0d5-efc7-41be-877e-d956b51c4f31",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-29T10:30:00",
+                    "end": "2024-03-29T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "91303f48-f468-474f-9caa-5b1fd2961533",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-04T08:20:00",
+                    "end": "2024-04-04T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "45e11805-b352-4ea4-a6b0-4fc5159eee3f",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-05T10:30:00",
+                    "end": "2024-04-05T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "9399910b-cf9e-4bf8-a4f5-10c5c12082f6",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-08T08:20:00",
+                    "end": "2024-04-08T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "54a4a5f5-88e9-44c8-ba2e-9741cc4ed196",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-12T10:30:00",
+                    "end": "2024-04-12T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "a8cd6853-5279-4aad-8978-34cb0996780d",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-15T08:20:00",
+                    "end": "2024-04-15T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "7a537f3e-fb7c-4e86-8ee1-3d5a1d758746",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-19T10:30:00",
+                    "end": "2024-04-19T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "6cc87e9a-d15a-444c-b86a-93ab439e3a52",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-22T08:20:00",
+                    "end": "2024-04-22T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "cfe70c43-0493-4b55-8088-a2b33c42469f",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-26T10:30:00",
+                    "end": "2024-04-26T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "2ca37bdf-e24c-4e5d-a541-cfe986c2b611",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-05-13T08:20:00",
+                    "end": "2024-05-13T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                }
+            ],
+            "Architecture 2": [
+                {
+                    "uid": "4dff1318-42ab-4747-89c4-7a124bccd802",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-01-29T13:30:00",
+                    "end": "2024-01-29T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "b35f7c4e-61ae-41e1-9832-e500b57ebac2",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-01-31T10:30:00",
+                    "end": "2024-01-31T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "246c6ee5-1dca-44cb-87c7-b348a747ebf7",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-02-07T10:30:00",
+                    "end": "2024-02-07T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "80a739db-41c5-4d0a-bb69-e562a7aea763",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-02-13T15:40:00",
+                    "end": "2024-02-13T17:40:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "0e58d0d8-87bb-44ac-8b9a-62c0464f973d",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-02-14T10:30:00",
+                    "end": "2024-02-14T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "a6b6d2d3-4bd1-4ed7-9dd2-c3fb8066901c",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-02-21T10:30:00",
+                    "end": "2024-02-21T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "3781c9bd-1b7d-43b4-b052-252cc177e514",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-02-27T15:40:00",
+                    "end": "2024-02-27T17:40:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "f11a843c-9751-4fcc-9a97-6fabdef8de9e",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-02-28T10:30:00",
+                    "end": "2024-02-28T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "f27702f8-982a-4cca-af73-0e30556fe97c",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-13T08:20:00",
+                    "end": "2024-03-13T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "edea81f8-c446-44a9-a9eb-119a37c196fa",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-19T15:40:00",
+                    "end": "2024-03-19T17:40:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "7a72485f-1d50-4002-ac01-76bea139c42f",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-20T10:30:00",
+                    "end": "2024-03-20T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "530503ca-5d31-47f1-bd1f-85ed6d86ea81",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-03-27T10:30:00",
+                    "end": "2024-03-27T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "6ae8687e-8474-4c7a-b6a2-8880e3b24c62",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-09T10:30:00",
+                    "end": "2024-04-09T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "72119640-42c9-485f-a01a-b1230c56fa59",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-10T10:30:00",
+                    "end": "2024-04-10T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "3d872e15-23c5-45c8-948c-2ed9e0038816",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-16T10:30:00",
+                    "end": "2024-04-16T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "03650785-ad7b-44d0-8228-2846d083a6c4",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:55",
+                    "start": "2024-04-17T10:30:00",
+                    "end": "2024-04-17T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "b9a30a8a-1ecd-4e76-92cf-b7291e6f701e",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-04-25T08:20:00",
+                    "end": "2024-04-25T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "b0b1adc5-ca52-4af3-8033-271b5764c7e1",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-05-15T08:20:00",
+                    "end": "2024-05-15T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                }
+            ],
+            "Mathematiques 2": [
+                {
+                    "uid": "0e5b647e-50a5-4f65-a6dc-0fb8aef5b4ca",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-01-29T10:30:00",
+                    "end": "2024-01-29T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "39710beb-c29d-4daf-94c0-2318925cf094",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-01T13:30:00",
+                    "end": "2024-02-01T15:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "08cc5d28-853d-4cdb-8149-23fab4352edc",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-05T10:30:00",
+                    "end": "2024-02-05T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "8bad0a4f-531d-46df-b52a-f597ccf3ef55",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-12T10:30:00",
+                    "end": "2024-02-12T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "6f5c5172-eb07-4792-b34e-692f3218f047",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-12T13:30:00",
+                    "end": "2024-02-12T14:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "ba62016a-3629-475f-b8a8-0679fcb32f60",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-13T10:30:00",
+                    "end": "2024-02-13T11:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "5a010762-d87f-4f20-a79a-36a8071e46a0",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-19T10:30:00",
+                    "end": "2024-02-19T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "e078ac3e-db88-488e-a3fd-5a8a28fcb869",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-19T13:30:00",
+                    "end": "2024-02-19T14:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "f438d8ac-5ed9-43ed-9531-9febe5830486",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-20T10:30:00",
+                    "end": "2024-02-20T11:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "679b2b93-4b22-4ca9-9828-fd2b56d0fe17",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-26T10:30:00",
+                    "end": "2024-02-26T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "97946462-b39e-4793-9bf7-37db9d4ced3f",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-26T13:30:00",
+                    "end": "2024-02-26T14:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "11eade69-8542-4171-be83-9c8652a7fc0b",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-27T10:30:00",
+                    "end": "2024-02-27T11:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "d1b8ea0a-38ba-4b24-9b90-2f1e253173a3",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-03-11T10:30:00",
+                    "end": "2024-03-11T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "249a4538-2e47-4bd6-9c72-fdf72fc1c750",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-03-12T10:30:00",
+                    "end": "2024-03-12T11:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "5518fe27-3b9e-4aa2-af40-0e2a710c02f8",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-03-18T10:30:00",
+                    "end": "2024-03-18T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "a4ac6297-0c79-4abf-a0b9-a11df8b42d7c",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-03-19T10:30:00",
+                    "end": "2024-03-19T11:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "5cfd880f-a9b1-446c-91a1-605734dfdcc9",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-03-25T10:30:00",
+                    "end": "2024-03-25T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "fe7a373e-b206-4315-a873-4d1596f029cf",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-04-08T10:30:00",
+                    "end": "2024-04-08T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "00647142-a11a-4ea3-aa65-1e98707faf4c",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-04-15T10:30:00",
+                    "end": "2024-04-15T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "9e164e70-3f8c-420b-8b14-328b4cbd5697",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-04-22T10:30:00",
+                    "end": "2024-04-22T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "45daf58d-b971-4993-a7d6-4e64b3326a26",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-05-13T10:30:00",
+                    "end": "2024-05-13T12:30:00",
+                    "description": "Mr BERRADJA",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                }
+            ],
+            "Programmation procedurale 2": [
+                {
+                    "uid": "4a472733-98c0-4618-a416-426111a0c3d6",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-01-30T15:40:00",
+                    "end": "2024-01-30T17:40:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "452e9679-234e-46fd-ac5a-6535fd1ca66a",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-01T10:30:00",
+                    "end": "2024-02-01T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "69112acd-691c-4e08-b999-d0d7f66868f8",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-02T13:30:00",
+                    "end": "2024-02-02T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "f399c3dc-52ec-403b-bfa0-beae821a3f66",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-08T10:30:00",
+                    "end": "2024-02-08T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "90c0f49e-0649-429b-b35b-6c4a336f13a5",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-09T13:30:00",
+                    "end": "2024-02-09T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "8bd4693d-78a6-4e92-a807-4c6d76b608a7",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-15T10:30:00",
+                    "end": "2024-02-15T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "cab53491-83b5-4395-9407-fcc6047b0b43",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:56",
+                    "start": "2024-02-16T13:30:00",
+                    "end": "2024-02-16T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "242efa7d-2a47-4d61-a474-b26dca6eeb8d",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-22T10:30:00",
+                    "end": "2024-02-22T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "2c69115f-bba6-4a40-b864-17de0be72e1a",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-23T13:30:00",
+                    "end": "2024-02-23T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "20867490-956b-4b24-861a-83cd19386a82",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-29T10:30:00",
+                    "end": "2024-02-29T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "da251943-d26f-4ece-a2ae-c7435f2de03f",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-01T13:30:00",
+                    "end": "2024-03-01T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "e2f38537-4a38-4599-9325-fae033a9a31a",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-13T13:30:00",
+                    "end": "2024-03-13T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "d7f36b05-b2ba-411b-a237-b6029cf45ad9",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-14T10:30:00",
+                    "end": "2024-03-14T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "ef78102b-96fa-4cc3-a05d-746493aac88b",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-15T13:30:00",
+                    "end": "2024-03-15T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "74e55350-1aae-4f03-b160-06612eb21e67",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-20T08:20:00",
+                    "end": "2024-03-20T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "028797eb-adf6-45dd-8ce7-322fbed77c41",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-21T10:30:00",
+                    "end": "2024-03-21T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "474f78fb-069f-4089-aa54-f02efa3e662b",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-28T10:30:00",
+                    "end": "2024-03-28T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "b97c91a3-89db-4c1f-b5fd-6ab7f48f1a1d",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-29T13:30:00",
+                    "end": "2024-03-29T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "8752705c-5c91-412a-97e3-4a9bafd49b12",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-04T10:30:00",
+                    "end": "2024-04-04T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "b805329f-0cff-40d5-845d-80524d8d9ed3",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-05T13:30:00",
+                    "end": "2024-04-05T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "671fafb7-b045-4cff-ae3a-273da4695142",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-11T10:30:00",
+                    "end": "2024-04-11T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "c187068d-0ee7-489c-8e82-7dd469b7a314",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-12T13:30:00",
+                    "end": "2024-04-12T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "b9586641-52b4-4f44-9ffd-0015e6e3d16f",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-18T10:30:00",
+                    "end": "2024-04-18T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "bf8b9c18-cbb3-4f95-b64c-2597e00964cf",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-19T13:30:00",
+                    "end": "2024-04-19T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "54785a21-ac36-4891-98ee-7d84dad46492",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-25T10:30:00",
+                    "end": "2024-04-25T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "9c359ee6-b515-46f2-9867-bdbe11cb2ab4",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-26T13:30:00",
+                    "end": "2024-04-26T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "8dd73798-f662-42cd-a54a-4dfd2dd2eac4",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-05-16T10:30:00",
+                    "end": "2024-05-16T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                }
+            ],
+            "SGBD 2": [
+                {
+                    "uid": "88d69c1d-a96f-4590-9275-5161d2a3f2ec",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-01T08:20:00",
+                    "end": "2024-02-01T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "14c86fa9-4a2f-49ed-afca-ede446a3d7ff",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-08T08:20:00",
+                    "end": "2024-02-08T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "b699ab55-4185-4d4a-9f02-219cb3bd0de8",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-15T08:20:00",
+                    "end": "2024-02-15T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "7731593e-eff1-4a01-a386-b2ae4c61b8d0",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-22T08:20:00",
+                    "end": "2024-02-22T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "4e474fa8-9cb3-4d85-a442-313f394162b0",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-02-29T08:20:00",
+                    "end": "2024-02-29T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "39cf9bd1-d6d0-481d-ac94-fef039091140",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-14T08:20:00",
+                    "end": "2024-03-14T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "00dd6f76-72f4-4073-8a41-478776f485eb",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-21T08:20:00",
+                    "end": "2024-03-21T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "87a1776d-ce50-4851-a427-0cc7bd6c4843",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-26T10:30:00",
+                    "end": "2024-03-26T12:30:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "cd2a8abf-bfa1-4ca5-b650-ea5c2a8a5ba4",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-03-28T08:20:00",
+                    "end": "2024-03-28T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "84d79137-6ffa-437a-8563-d9786dc5ec70",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-02T10:30:00",
+                    "end": "2024-04-02T12:30:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "2160f9d5-002a-469a-9c19-cc10170793ba",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-11T08:20:00",
+                    "end": "2024-04-11T10:20:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.15",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "b73e93e9-c010-47c4-b56b-643e3b528166",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:17:57",
+                    "start": "2024-04-23T10:30:00",
+                    "end": "2024-04-23T12:30:00",
+                    "description": "Mr TAGNE KEMGNE KAMGA",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                }
+            ]
+        },
+        "BAB1 INFO Groupe B": {
+            "Algorithmique 2": [
+                {
+                    "uid": "91358299-0483-4892-bdf1-51bcf8bac01b",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-01-30T10:30:00",
+                    "end": "2024-01-30T12:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "601d7af1-51de-4d51-ac16-44f8089a2dcb",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-01-31T10:30:00",
+                    "end": "2024-01-31T12:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "1c75bb40-b9bd-432b-b5b2-e5137cd63861",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-05T08:20:00",
+                    "end": "2024-02-05T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "60d234f3-9314-4c1f-9c74-1e813ace3a98",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-07T10:30:00",
+                    "end": "2024-02-07T12:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "89761d35-3283-4146-9eec-666e35c1ae79",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-12T08:20:00",
+                    "end": "2024-02-12T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "80142677-b913-46cd-be84-eed9032c835c",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-14T10:30:00",
+                    "end": "2024-02-14T12:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "2d7e2724-b8ca-481e-85e1-3c191f598b70",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-19T08:20:00",
+                    "end": "2024-02-19T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "83e8e594-c422-44c5-b551-a1cd9b324430",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-21T10:30:00",
+                    "end": "2024-02-21T12:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "9a8e7231-36bb-4d91-9af5-fbd5c32bd886",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-26T08:20:00",
+                    "end": "2024-02-26T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "a9b1d601-e767-4f6e-86c1-388e7f7757d1",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-02-28T10:30:00",
+                    "end": "2024-02-28T12:30:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.9",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "559c6c90-7a0b-4b4a-83d4-e0f4a575ecb5",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-03-11T08:20:00",
+                    "end": "2024-03-11T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "2e0a01e6-06cd-4f98-9ebe-0396334c6e73",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-03-18T08:20:00",
+                    "end": "2024-03-18T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "e17db6dd-13c1-44e5-b10c-69383b4bd171",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-03-19T10:30:00",
+                    "end": "2024-03-19T12:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "611da8cb-28f4-4ddc-9b7a-26b842e43478",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-03-25T08:20:00",
+                    "end": "2024-03-25T10:20:00",
+                    "description": "Mr MASSET",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "ddffb200-f60e-4ced-85ed-f22775b74b6d",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-03-26T10:30:00",
+                    "end": "2024-03-26T12:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "d11273bd-b702-434b-b6b9-6d208d066348",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-04-02T10:30:00",
+                    "end": "2024-04-02T12:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "1af3dd23-0a13-4c72-b84e-4eac86e3add9",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-04-09T10:30:00",
+                    "end": "2024-04-09T12:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "bd824658-96fa-48a9-a823-354ff4a6a50a",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-04-16T10:30:00",
+                    "end": "2024-04-16T12:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "b493a910-3d6b-4446-9049-b87b29f2d9d5",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-04-18T13:30:00",
+                    "end": "2024-04-18T15:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "668867d9-563f-4dbd-aac2-2f35932f3609",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-04-18T15:40:00",
+                    "end": "2024-04-18T16:40:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                },
+                {
+                    "uid": "c4a86ebc-f48d-4eb0-a69f-9865082cf48d",
+                    "title": "Algorithmique 2",
+                    "status": "2024-01-26T22:18:13",
+                    "start": "2024-04-23T10:30:00",
+                    "end": "2024-04-23T12:30:00",
+                    "description": "Mr AERSSENS",
+                    "location": "C2.11",
+                    "color": "#00ad3d"
+                }
+            ],
+            "Anglais 2": [
+                {
+                    "uid": "f9237d95-eb14-4695-bc4c-fab80f524c9e",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-01-30T08:20:00",
+                    "end": "2024-01-30T10:20:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "25fbaa80-a7de-40c2-8e5a-9109443e831f",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-06T08:20:00",
+                    "end": "2024-02-06T10:20:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "5393b95b-d153-4716-bc96-d8efddbd3d61",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-08T15:40:00",
+                    "end": "2024-02-08T16:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "71f37a60-c04d-426f-a2ea-7dfa9c9b6d6d",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-13T10:30:00",
+                    "end": "2024-02-13T12:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.11",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "61d47e4b-618f-4e9c-b48d-eba77b4170ab",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-15T15:40:00",
+                    "end": "2024-02-15T16:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "45bed390-9494-4fc1-a5c0-3fdcd191bb88",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-22T15:40:00",
+                    "end": "2024-02-22T16:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "12cd7ae4-fece-494a-ab37-a020ccb3d7b5",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-14T15:40:00",
+                    "end": "2024-03-14T16:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "9b8b5967-0ac6-4df1-a56a-2de48bb9662b",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-28T15:40:00",
+                    "end": "2024-03-28T16:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "9e6e6c91-47d4-4a01-a007-c02fb6d4fd49",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-11T15:40:00",
+                    "end": "2024-04-11T16:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "c699fbf6-c0b4-4cf0-9646-289fba53ddb9",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-18T16:40:00",
+                    "end": "2024-04-18T17:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "0c72bfa7-9e11-4e1f-975f-3b8c3054c0e5",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-25T15:40:00",
+                    "end": "2024-04-25T16:40:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                },
+                {
+                    "uid": "d7fc5c59-f3d1-47a8-8122-a9d03fddb0b9",
+                    "title": "Anglais 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-05-16T10:30:00",
+                    "end": "2024-05-16T11:30:00",
+                    "description": "Mr CLINI",
+                    "location": "C2.9",
+                    "color": "#fc4747"
+                }
+            ],
+            "Applications web 2": [
+                {
+                    "uid": "b922cbb9-bc1a-437c-af88-b4049d31685f",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-02T13:30:00",
+                    "end": "2024-02-02T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "21b7435e-a8c2-4c2e-942d-9aea037e0496",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-05T10:30:00",
+                    "end": "2024-02-05T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "0101c7a7-06cd-486b-b93f-2978df195fcc",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-09T13:30:00",
+                    "end": "2024-02-09T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "0df0a55e-c3c3-4d21-9c26-f39e1a4472d6",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-12T10:30:00",
+                    "end": "2024-02-12T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "609408d6-7813-427e-913e-6c7dc415cada",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-16T13:30:00",
+                    "end": "2024-02-16T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "dca03cf5-fb62-4903-9f51-50507e7ef109",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-19T10:30:00",
+                    "end": "2024-02-19T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "09d95ed7-c796-4e1a-a3a3-77943c6a62af",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-23T13:30:00",
+                    "end": "2024-02-23T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "cdd66e04-07f7-4d6d-a565-95fdf933ddb0",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-02-26T10:30:00",
+                    "end": "2024-02-26T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "7c5a65c6-bff2-49f1-a75e-9a91584c5475",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-01T13:30:00",
+                    "end": "2024-03-01T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "a6f25c9f-2bae-4057-8ecf-cf1d419c7cd4",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-11T10:30:00",
+                    "end": "2024-03-11T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "6edfd779-62b7-4a70-b7e0-6f6ffae00998",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-15T13:30:00",
+                    "end": "2024-03-15T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "9e66ae8b-7a9f-4a84-8257-95042e447ec7",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-18T10:30:00",
+                    "end": "2024-03-18T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "ffd4ba9b-4b2c-4af2-841a-b2e1b6da7529",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-20T13:30:00",
+                    "end": "2024-03-20T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "e2735621-2cc9-4870-886d-816ac5af6821",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-25T10:30:00",
+                    "end": "2024-03-25T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "5be5de14-bca3-4597-be48-f1184687ae23",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-03-29T13:30:00",
+                    "end": "2024-03-29T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "4ad21697-2994-4b4d-8c72-7955a8781a29",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-04T10:30:00",
+                    "end": "2024-04-04T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "9fb70758-36c3-4864-a4d5-b61650e8edfe",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-05T13:30:00",
+                    "end": "2024-04-05T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "e0b29468-0aa7-40c2-ac79-0074f3248937",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-08T10:30:00",
+                    "end": "2024-04-08T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "bc461257-8248-42b4-a064-3419d32f5ede",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-12T13:30:00",
+                    "end": "2024-04-12T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "445b42b3-e005-4117-9ed4-af69c72aa57b",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-15T10:30:00",
+                    "end": "2024-04-15T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "a673e30a-d765-4729-b59a-1bfd95e7712a",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-19T13:30:00",
+                    "end": "2024-04-19T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "908727a5-851d-48f2-b3d4-19650f5fbb14",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-22T10:30:00",
+                    "end": "2024-04-22T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "95d17a66-69c1-4425-863c-9789d49f3190",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:14",
+                    "start": "2024-04-26T13:30:00",
+                    "end": "2024-04-26T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                },
+                {
+                    "uid": "925a39a0-e731-44a3-93f0-91ce8df30182",
+                    "title": "Applications web 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-05-13T10:30:00",
+                    "end": "2024-05-13T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#44fcdb"
+                }
+            ],
+            "Architecture 2": [
+                {
+                    "uid": "440681a0-e69d-4051-a92a-b8bd631c6c0c",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-01-29T10:30:00",
+                    "end": "2024-01-29T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "350cbc24-5a90-4b85-a942-85b8b5e5d971",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-01-31T13:30:00",
+                    "end": "2024-01-31T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "9f0726fe-e171-4346-aae1-b027f3047430",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-07T13:30:00",
+                    "end": "2024-02-07T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "80aaa893-9a31-484b-b84b-67f33ca5f3e2",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-14T13:30:00",
+                    "end": "2024-02-14T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "47dc53fb-bac1-4932-8b0d-53fde888f249",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-20T15:40:00",
+                    "end": "2024-02-20T17:40:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "d23aa327-0433-47d2-b1c4-a70d480c1bdf",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-21T13:30:00",
+                    "end": "2024-02-21T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "eaae3770-a0ae-48a2-9b3b-dd8f7bc39998",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-28T13:30:00",
+                    "end": "2024-02-28T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "1de2a557-82dc-46bf-af99-56006313d626",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-12T15:40:00",
+                    "end": "2024-03-12T17:40:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "c491af43-a6fc-43a3-9257-7a443ca27a22",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-13T13:30:00",
+                    "end": "2024-03-13T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "7e6aa4a6-7e61-4228-bc3c-3c254c01ff9d",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-20T08:20:00",
+                    "end": "2024-03-20T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "81bf9ac4-65c2-41d4-b299-6f59c01b7301",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-26T15:40:00",
+                    "end": "2024-03-26T17:40:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "a209c4c2-be64-4f77-997c-9ad41dfd308c",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-27T08:20:00",
+                    "end": "2024-03-27T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "61269462-fe76-4eff-b3b6-c59084398fda",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-09T08:20:00",
+                    "end": "2024-04-09T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "7c67437a-7eb2-4ac2-8505-c86b08d59261",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-10T08:20:00",
+                    "end": "2024-04-10T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "96cef324-85a9-4409-8d3c-99ee500e930a",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-16T08:20:00",
+                    "end": "2024-04-16T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "66e2d0f6-fd6a-4502-9845-aebfd6e12e41",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-17T08:20:00",
+                    "end": "2024-04-17T10:20:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "56e757b9-7a06-4f1b-a4b0-f5f8a1532799",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-25T10:30:00",
+                    "end": "2024-04-25T12:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                },
+                {
+                    "uid": "1907b9e9-0183-4dec-be92-b8f70e035b50",
+                    "title": "Architecture 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-05-15T13:30:00",
+                    "end": "2024-05-15T15:30:00",
+                    "description": "Mr MOREAUX",
+                    "location": "C2.4",
+                    "color": "#878787"
+                }
+            ],
+            "Mathematiques 2": [
+                {
+                    "uid": "01d0c731-9dd3-40ba-8ee4-c8f5e9008a46",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-01-29T08:20:00",
+                    "end": "2024-01-29T10:20:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "3400c5dc-9fda-43d8-b20e-21051cd00ef8",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-01T13:30:00",
+                    "end": "2024-02-01T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "f6467ce0-5fc7-4763-b882-0ce47180a3c2",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-13T13:30:00",
+                    "end": "2024-02-13T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "38a0e899-bc33-409c-bbc2-18c294e08ab2",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-15T13:30:00",
+                    "end": "2024-02-15T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "512f5e5d-889d-4c49-96d0-9c9a345a1288",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-20T13:30:00",
+                    "end": "2024-02-20T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "181653d5-0f0b-4a74-891e-04ee1928f6b8",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-22T13:30:00",
+                    "end": "2024-02-22T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "8cceab3e-9d12-4e36-abaf-5b03cb709bdb",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-27T13:30:00",
+                    "end": "2024-02-27T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "2adbc0c3-73b3-4888-a478-07bc4b9d5854",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-29T13:30:00",
+                    "end": "2024-02-29T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "bdcc4d33-b7d5-4105-a851-a50f3a9c36e9",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-02-29T15:40:00",
+                    "end": "2024-02-29T17:40:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "c389fc13-8dc0-44e7-9c03-ad5e19028172",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-12T13:30:00",
+                    "end": "2024-03-12T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "b1f141bd-7d21-4538-97be-78fc12854f59",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-14T13:30:00",
+                    "end": "2024-03-14T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "c9790d83-0eb6-4f18-bef5-e1e35176155a",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-26T13:30:00",
+                    "end": "2024-03-26T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "49bc2674-ac25-40a6-b468-0abbdef0bb41",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-03-28T13:30:00",
+                    "end": "2024-03-28T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "39a35021-18e3-47ca-8293-82d2c6e1e44b",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-02T13:30:00",
+                    "end": "2024-04-02T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "8d01c1b6-bc3d-42dc-a2e5-dce54de762c3",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-02T15:40:00",
+                    "end": "2024-04-02T17:40:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.9",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "39e773ae-52f4-4aed-9c48-b2bc3db04975",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:15",
+                    "start": "2024-04-08T08:20:00",
+                    "end": "2024-04-08T10:20:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "2340980c-57de-4d9a-9d98-fe673db6872d",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-11T13:30:00",
+                    "end": "2024-04-11T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                },
+                {
+                    "uid": "0753069f-6b75-4c16-8515-f1dbdcd0f181",
+                    "title": "Mathematiques 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-25T13:30:00",
+                    "end": "2024-04-25T15:30:00",
+                    "description": "Mr LENOIR",
+                    "location": "C2.11",
+                    "color": "#79007d"
+                }
+            ],
+            "Programmation procedurale 2": [
+                {
+                    "uid": "61195569-11ac-4786-8127-57a7476d739f",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-01-30T14:00:00",
+                    "end": "2024-01-30T15:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "e53d5134-4194-4822-b8bc-042789d811a5",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-01T08:20:00",
+                    "end": "2024-02-01T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "abfcebab-c1b9-4a8b-91e2-ed29f58cf93a",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-02T10:30:00",
+                    "end": "2024-02-02T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "2b47c2c8-4372-444e-9fd0-a75666848b27",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-08T08:20:00",
+                    "end": "2024-02-08T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "090e7d63-730a-49f5-9a9f-34d92e1b342f",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-09T10:30:00",
+                    "end": "2024-02-09T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "56b802ac-7a67-4f39-be9f-a4d3c3f38d8d",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-15T08:20:00",
+                    "end": "2024-02-15T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "1e7fdd00-8755-4b5b-aef4-7844c3d64a83",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-16T10:30:00",
+                    "end": "2024-02-16T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "9b3df768-9ae3-4d31-9b04-85c05d8d9960",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-22T08:20:00",
+                    "end": "2024-02-22T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "bb35e12f-6694-44d5-bbb5-373cc529c091",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-23T10:30:00",
+                    "end": "2024-02-23T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "e418fd9a-77e2-431d-8054-7549f75de159",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-29T08:20:00",
+                    "end": "2024-02-29T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "3e757e8b-fa6c-40dc-bf01-006623f5e03f",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-01T10:30:00",
+                    "end": "2024-03-01T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "29e3f425-eb86-4676-8bb1-3ffb4a116e01",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-13T08:20:00",
+                    "end": "2024-03-13T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "8f280424-04c5-484f-b8e4-9a84771f4e25",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-14T08:20:00",
+                    "end": "2024-03-14T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "d2b09eed-07e6-456e-939b-41d62053c110",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-15T10:30:00",
+                    "end": "2024-03-15T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "fbf89a0b-9805-4066-b558-a2b4275009ae",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-20T10:30:00",
+                    "end": "2024-03-20T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "224c7f28-03ca-4169-9b53-23ccd218aa75",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-21T08:20:00",
+                    "end": "2024-03-21T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "4eb154db-ccaa-4fe1-93cf-39f9519f3f08",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-28T08:20:00",
+                    "end": "2024-03-28T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "3f74a8e9-4776-4122-8cbd-257e3576f72b",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-29T10:30:00",
+                    "end": "2024-03-29T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "2f1f0adb-c1ec-4be3-ba13-92815172c39a",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-04T08:20:00",
+                    "end": "2024-04-04T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "8eaa176c-1327-4e27-8636-ba72750ee357",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-05T10:30:00",
+                    "end": "2024-04-05T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "5fccd588-943c-40c9-a61d-31420c723ba0",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-11T08:20:00",
+                    "end": "2024-04-11T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.4",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "e3ceb12c-4ba9-4d7c-a427-45dece0beede",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-12T10:30:00",
+                    "end": "2024-04-12T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "2ce83eb5-a435-4526-8cb2-493a62e9fc7e",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-18T08:20:00",
+                    "end": "2024-04-18T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "9f130a3d-5d5f-4f7c-be29-4b54e96dc650",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-19T10:30:00",
+                    "end": "2024-04-19T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "f9cbe01c-ea29-436c-9b2f-5526116158d8",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-25T08:20:00",
+                    "end": "2024-04-25T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "9045cc1b-8edf-4fbb-a039-4f541ee1a551",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-04-26T10:30:00",
+                    "end": "2024-04-26T12:30:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                },
+                {
+                    "uid": "b0c81547-081e-49c9-a0a9-ad4f3dbb8c45",
+                    "title": "Programmation procedurale 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-05-16T08:20:00",
+                    "end": "2024-05-16T10:20:00",
+                    "description": "Mr WETTEREN",
+                    "location": "C2.5",
+                    "color": "GREY"
+                }
+            ],
+            "SGBD 2": [
+                {
+                    "uid": "4bb96c9f-24ee-414e-9299-563e3ffbc21c",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-01T10:30:00",
+                    "end": "2024-02-01T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "d1f5087e-33a2-4def-be69-f3c31ff367f7",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-08T10:30:00",
+                    "end": "2024-02-08T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "f6675002-a182-40ca-91ee-50a8aba7009e",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-15T10:30:00",
+                    "end": "2024-02-15T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "617f8cc5-b90b-403b-ab64-08468c0dd501",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-22T10:30:00",
+                    "end": "2024-02-22T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "3bdaf58b-3e0c-4dde-8442-8e0ae7906a66",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-02-29T10:30:00",
+                    "end": "2024-02-29T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "29d9533a-1075-411a-93c9-a9fdcc59f819",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-14T10:30:00",
+                    "end": "2024-03-14T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "cf520f3c-85e8-40ba-b5e2-e51f7465c060",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:16",
+                    "start": "2024-03-21T10:30:00",
+                    "end": "2024-03-21T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "3cd2626d-4f84-46b5-85e5-258fe43691e6",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:17",
+                    "start": "2024-03-28T10:30:00",
+                    "end": "2024-03-28T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "e762545f-d71f-4ea1-aca4-27a2c6c44a7a",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:17",
+                    "start": "2024-04-11T10:30:00",
+                    "end": "2024-04-11T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "d90b06e0-1cec-4660-aad3-6cc3de315c40",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:17",
+                    "start": "2024-04-18T10:30:00",
+                    "end": "2024-04-18T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                },
+                {
+                    "uid": "fc5c4cac-dab7-4261-b05b-03d0ba8009b0",
+                    "title": "SGBD 2",
+                    "status": "2024-01-26T22:18:17",
+                    "start": "2024-05-15T10:30:00",
+                    "end": "2024-05-15T12:30:00",
+                    "description": "Mme VANDEVORST",
+                    "location": "C2.2",
+                    "color": "#fca044"
+                }
+            ]
+        }
+    }
+}
