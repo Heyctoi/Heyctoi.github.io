@@ -1,18 +1,44 @@
-on: push
-name: 🚀 Deploy website on push
+name: Scraper
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
 jobs:
-  web-deploy:
-    name: 🎉 Deploy
+  scrape:
     runs-on: ubuntu-latest
     steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v3
-    
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-      with:
-        server: ftpupload.net
-        username: ${{ secrets.FTPUSERNAME }}
-        password: ${{ secrets.FTPPASSWORD }}
-        protocol: ftp
-        server-dir: htdocs/Projets/Calendar/
+      - name: Clean workspace
+        run: |
+          rm -rf results/
+          mkdir results
+
+      - name: Checking out repo
+        uses: actions/checkout@v2
+        with:
+          ref: action
+      - name: Setting up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: Installing package list
+        run: apt list --installed    
+      - name: Removing previous chrome instances on runner 
+        run: sudo apt purge google-chrome-stable  
+        
+       # Need to fetch reqs if needed
+      - name: Installing all necessary packages
+        run: pip install chromedriver-autoinstaller selenium pyvirtualdisplay dateparser
+      - name: Install xvfb
+        run: sudo apt-get install xvfb
+
+      - name: Running the Python script
+        run: python scraper/main.py
+        
+      - name: Commit and Push The Results From Python Selenium Action
+        run: |
+         git config --global user.name "github-actions[bot]"
+         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+         git add -A
+         git commit -m "GitHub Actions Results added"
+         git push
