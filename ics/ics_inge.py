@@ -11,7 +11,7 @@ import uuid
 import dateparser
 import time
 
-from CoursInfo import course_inge
+from CoursInge import course_inge
 
 
 URL = "https://horaires2023.condorcet.be/invite"
