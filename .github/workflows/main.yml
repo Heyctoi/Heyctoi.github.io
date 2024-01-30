@@ -7,7 +7,9 @@ jobs:
     runs-on: windows-latest
     steps:
       - name: Check Git version
-        run: where git
+        run: Get-Command git
+      - name: Check Git version
+        run: git config --list --show-origin
 
   scrape:
     runs-on: windows-latest
