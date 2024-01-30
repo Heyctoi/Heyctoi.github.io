@@ -8,6 +8,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
+      - name: Installing Git
+        run: sudo apt-get update && sudo apt-get install -y git
       - name: Checking out repo
         uses: actions/checkout@v2
         with:
