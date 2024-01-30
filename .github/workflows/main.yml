@@ -1,6 +1,9 @@
 name: Run Scraper
 
-on: push
+on: 
+  pull_request:
+    branches:
+    - main
 
 jobs:
   scrape:
@@ -10,16 +13,6 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: action
-          repository: Heyctoi/Heyctoi.github.io
-          token: ${{ secrets.TOKEN }}
-          ssh-strict: true
-          persist-credentials: true
-          clean: true
-          fetch-depth: 1
-          lfs: false
-          submodules: false
-          set-safe-directory: true
-          
       - name: Setting up Python
         uses: actions/setup-python@v2
         with:
