@@ -4,4 +4,4 @@ jobs:
     runs-on: windows-latest
     steps:
       - run: git --version
-      - run: pip -- version
+      - run: pip --version
