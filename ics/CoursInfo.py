@@ -1,4 +1,4 @@
-course_info_bab1 = {
+course_info = {
     "Algorithmique 2": "Algorithmique 2",
     "Anglais 2": "Anglais 2",
     "Applications web 2": "Applications web 2",

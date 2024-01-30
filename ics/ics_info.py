@@ -9,36 +9,17 @@ from selenium.webdriver.common.action_chains import ActionChains
 import datetime
 import uuid
 import dateparser
-import json
 import time
 
-from course_info_bab1 import course_info_bab1
-from course_info_bab1 import not_course_info_bab1
+from CoursInfo import course_info
+
 
 URL = "https://horaires2023.condorcet.be/invite"
 
-course_dict = {"INFO": course_info_bab1}
+course_dict = {"INFO": course_info}
 
 WAITING_TIME = 5
-output = {}
-
-
-colorTab = {
-    "BLUE": "#5c98ff",
-    "RED": "#fc4747",
-    "CYAN": "#44fcdb",
-    "ORANGE": "#fca044",
-    "GREY": "#878787",
-    "GREEN": "#00ad3d",
-    "PURPLE": "#79007d",
-    "YELLOW" : "GREY"
-}
-
-def getColor(color):
-    if color in colorTab:
-        return colorTab[color]
-    else:
-        return "#0026ad"
+output ="BEGIN:VCALENDAR\nVERSION:2.0\nCALSCALE:GREGORIAN\nPRODID:adamgibbons/ics\nMETHOD:PUBLISH\nX-PUBLISHED-TTL:PT1H\n"
 
 def move_to_start_position(driver):
     # Go into "Formations" tab
@@ -88,15 +69,12 @@ def move_down(driver,n,begin_enter=False):
     action.send_keys(Keys.ENTER)
     action.perform()
 
-def get_information(driver,name, course_id, start=-1, end=-1):
-    if course_id not in output:
-        output[course_id] = {}
-    output[course_id][name] = {}
-    print(name)
+def get_information(driver, course_id, start=-1, end=-1):
+    print(course_id)
+    global output
+    timeZone = "Europe/Brussels"
     course = course_dict[course_id]
-
     tables = driver.find_elements(By.XPATH,'//table[@class="as-content"]/tbody/tr')
-    color = getColor("")
 
     if start == -1 or end == -1:
             start, end = 1, len(tables)
@@ -105,14 +83,9 @@ def get_information(driver,name, course_id, start=-1, end=-1):
         course_name = tables[i].find_elements(By.XPATH,'./td/table/tbody/tr/td/span')[0].text
 
         if course_name in course:
-            course_name, color_ = course[course_name]
-            color = getColor(color_)
+            course_name = course[course_name]
         else:
             continue
-        if  course_name in not_course_info_bab1:
-            continue
-        if course_name not in output[course_id][name]:
-            output[course_id][name][course_name] = []
         list_cursus = tables[i+1].find_elements(By.XPATH,'./td/div/table/tbody/tr')
         for cursus in list_cursus:
             info  = cursus.find_elements(By.XPATH,'./td')
@@ -121,13 +94,24 @@ def get_information(driver,name, course_id, start=-1, end=-1):
             _time = info[1].get_attribute("innerHTML").replace("&nbsp;", " ")
             start = dateparser.parse(date + ' ' + _time[3:8]).strftime("%Y-%m-%dT%H:%M:%S")
             end   = dateparser.parse(date + ' ' + _time[10:17]).strftime("%Y-%m-%dT%H:%M:%S")
+            start = start.replace(":","").replace("-","")
+            end = end.replace(":","").replace("-","")
 
             teacher = info[3].get_attribute("innerHTML").replace("&nbsp;", " ")
             room = info[4].get_attribute("innerHTML").replace("&nbsp;", " ")
             uid = str(uuid.uuid4())
             today = str(datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S"))
+            today = today.replace(":","").replace("-","")
 
-            output[course_id][name][course_name].append({'uid':uid,'title':course_name,'status':today,'start':start,'end':end,'description':teacher,'location':room,'color': color})
+            output += "BEGIN:VEVENT\n"
+            output += "DTSTAMP:" + today + "Z\n"
+            output += "UID:" + uid + "\n"
+            output += "SUMMARY:" + course_name + "\\n" + teacher + "\n"
+            output += "DTSTART;TZID=" + timeZone + ":" + start + "Z\n"
+            output += "DTEND;TZID=" + timeZone + ":" + end + "Z\n"
+            output += "LOCATION:" + room + "\n"
+            output += "END:VEVENT\n"
+
 
 
 options = Options()
@@ -141,24 +125,19 @@ move_to_combo(driver)
 time.sleep(WAITING_TIME)
 move_to_course(driver, "B1-Bac en informatique , or dev d'applications (Charleroi)")
 time.sleep(WAITING_TIME)
-get_information(driver,"BAB1 INFO", "INFO", 19, 26)
+get_information(driver,"INFO", 19, 26) #Cours généraux
 time.sleep(WAITING_TIME)
-get_information(driver,"BAB1 INFO Visites d'entreprises", "INFO", 49, 50)
-time.sleep(WAITING_TIME)
-move_to_combo1(driver)
-time.sleep(WAITING_TIME)
-move_down(driver,8)
-time.sleep(WAITING_TIME)
-get_information(driver,"BAB1 INFO Groupe A", "INFO")
+get_information(driver,"INFO", 49, 50) #Visites d'entreprises
 time.sleep(WAITING_TIME)
 move_to_combo1(driver)
 time.sleep(WAITING_TIME)
-move_down(driver,1)
+move_down(driver,9)
 time.sleep(WAITING_TIME)
-get_information(driver,"BAB1 INFO Groupe B", "INFO")
+get_information(driver, "INFO") #Groupe B
 time.sleep(WAITING_TIME)
 driver.quit()
 print("end")
 
-with open('events/events.json', 'w') as my_file:
-    my_file.writelines(json.dumps(output, indent=4))
+output += "END:VCALENDAR"
+with open('events/events_info.ics', 'w') as my_file:
+    my_file.writelines(output)

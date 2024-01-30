@@ -28,8 +28,11 @@ jobs:
       - name: Running the Python script Scarper
         run: python scraper/main.py
         
-      - name: Running the Python script ICS
-        run: python ics/ics.py
+      - name: Running the Python script ICS INFO
+        run: python ics/ics_info.py
+
+      - name: Running the Python script ICS INGE
+        run: python ics/ics_info.py
         
       - name: Commit and Push The Results From Python Selenium Action
         run: |
