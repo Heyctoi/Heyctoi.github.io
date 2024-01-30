@@ -1,0 +1,38 @@
+name: Run Scraper
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  scrape:
+    runs-on: windows-latest
+    steps:
+      - name: Checking out repo
+        uses: actions/checkout@v2
+        with:
+          ref: action
+          
+      - name: Setting up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+
+      - name: Installing all necessary packages
+        run: |
+          pip install chromedriver-autoinstaller selenium pyvirtualdisplay dateparser
+          choco install googlechrome --ignore-checksums  # Install Chrome via Chocolatey
+          
+      - name: Running the Python script scraper
+        run: python scraper/main.py
+
+      - name: Running the Python script ICS
+        run: python ics/ics.py
+        
+      - name: Commit and Push The Results From Python Selenium Action
+        run: |
+         git config --global user.name "github-actions[bot]"
+         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+         git add -A
+         git commit -m "GitHub Actions Results added"
+         git push

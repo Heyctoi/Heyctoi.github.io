@@ -1,7 +1,0 @@
-on: push
-jobs: 
-  first-job:
-    runs-on: windows-latest
-    steps:
-      - run: git --version
-      - run: pip --version
