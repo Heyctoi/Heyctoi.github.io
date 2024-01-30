@@ -3,6 +3,11 @@ name: Run Scraper
 on: push
 
 jobs:
+  check-git-version:
+    runs-on: windows-latest
+    steps:
+      - name: Check Git version
+        run: git --version
   scrape:
     runs-on: windows-latest
     steps:
