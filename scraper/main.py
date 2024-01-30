@@ -160,5 +160,5 @@ time.sleep(WAITING_TIME)
 driver.quit()
 print("end")
 
-with open('../events.json', 'w') as my_file:
+with open('events.json', 'w') as my_file:
     my_file.writelines(json.dumps(output, indent=4))
