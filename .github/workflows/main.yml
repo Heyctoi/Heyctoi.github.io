@@ -1,9 +1,6 @@
 name: Run Scraper
 
-on: 
-  pull_request:
-    branches:
-    - main
+on: push
 
 jobs:
   scrape:
@@ -11,8 +8,7 @@ jobs:
     steps:
       - name: Checking out repo
         uses: actions/checkout@v2
-        with:
-          ref: action
+    
       - name: Setting up Python
         uses: actions/setup-python@v2
         with:
