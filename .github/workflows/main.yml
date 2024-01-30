@@ -3,11 +3,6 @@ name: Run Scraper
 on: push
 
 jobs:
-  check-git-version:
-    runs-on: windows-latest
-    steps:
-      - name: Check Git version
-        run: git --version
   scrape:
     runs-on: windows-latest
     steps:
@@ -15,6 +10,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           ref: action
+          repository: Heyctoi/Heyctoi.github.io
           
       - name: Setting up Python
         uses: actions/setup-python@v2
