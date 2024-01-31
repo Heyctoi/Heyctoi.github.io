@@ -106,10 +106,10 @@ def get_information(driver, course_id, start=-1, end=-1):
             output += "BEGIN:VEVENT\n"
             output += "DTSTAMP:" + today + "Z\n"
             output += "UID:" + uid + "\n"
-            output += "SUMMARY:" + course_name + "\n"
+            output += "SUMMARY:" + course_name + "\\n" + teacher + "\n"
             output += "DTSTART;TZID=" + timeZone + ":" + start + "Z\n"
             output += "DTEND;TZID=" + timeZone + ":" + end + "Z\n"
-            output += "LOCATION:" + room + "\\n" + teacher + "\n"
+            output += "LOCATION:" + room + "\n"
             output += "END:VEVENT\n"
 
 
