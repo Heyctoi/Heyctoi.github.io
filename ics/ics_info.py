@@ -125,9 +125,7 @@ move_to_combo(driver)
 time.sleep(WAITING_TIME)
 move_to_course(driver, "B1-Bac en informatique , or dev d'applications (Charleroi)")
 time.sleep(WAITING_TIME)
-get_information(driver,"INFO", 19, 26) #Cours généraux
-time.sleep(WAITING_TIME)
-get_information(driver,"INFO", 49, 50) #Visites d'entreprises
+get_information(driver,"INFO", 19, 24) #Cours généraux
 time.sleep(WAITING_TIME)
 move_to_combo1(driver)
 time.sleep(WAITING_TIME)
