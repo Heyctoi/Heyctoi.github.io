@@ -38,19 +38,11 @@ def move_to_start_position(driver):
     action.perform()
 
 
-def move_to_combo(driver):
-    select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-search"]')
+def move_to_combo(driver, element):
+    select = driver.find_element(By.XPATH, element)
     action = ActionChains(driver)
     action.move_to_element(select)
     action.move_by_offset(5, 5)
-    action.click()
-    action.perform()
-
-def move_to_combo1(driver):
-    select = driver.find_element(By.XPATH, '//div[@class="ocb_cont as-input as-select "]')
-    action = ActionChains(driver)
-    action.move_to_element(select)
-    action.move_by_offset(5,5)
     action.click()
     action.perform()
 
@@ -121,15 +113,15 @@ driver.get(URL)
 print("start")
 time.sleep(WAITING_TIME) # wait for the page to load
 move_to_start_position(driver)
-move_to_combo(driver)
+move_to_combo(driver, '//div[@class="ocb_cont as-input as-search"]')
 time.sleep(WAITING_TIME)
 move_to_course(driver, "B1-Bac en informatique , or dev d'applications (Charleroi)")
 time.sleep(WAITING_TIME)
-get_information(driver,"INFO", 19, 24) #Cours généraux
-time.sleep(WAITING_TIME)
-move_to_combo1(driver)
+move_to_combo(driver, '//div[@class="ocb_cont as-input as-select "]')
 time.sleep(WAITING_TIME)
 move_down(driver,9)
+time.sleep(WAITING_TIME)
+move_to_combo(driver, '//i[@class="icon_afficher_cours_TD_plus_promo bt-activable btnImage OmbreFocus"]')
 time.sleep(WAITING_TIME)
 get_information(driver, "INFO") #Groupe B
 time.sleep(WAITING_TIME)

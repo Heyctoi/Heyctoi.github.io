@@ -7,7 +7,5 @@ course_info = {
     "Économie générale et appliquée": "Economie generale",
     "Math. 2 et statistiques": "Mathematiques 2",
     "Programmation procédurale 2": "Programmation procedurale 2",
-    "SGBD 2": "SGBD 2",
-    "Formation en entreprise": "Formation en entreprise",
-    "Visites d'entreprises": "Visites d'entreprises"
+    "SGBD 2": "SGBD 2"
 }
